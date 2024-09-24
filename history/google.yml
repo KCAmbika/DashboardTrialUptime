@@ -1,7 +1,7 @@
-url: https://www.google.com
-status: up
-code: 200
-responseTime: 82
-lastUpdated: 2024-09-24T06:58:47.715Z
+url: http://web01.ta.philips.com/TestResults/develop/
+status: down
+code: 0
+responseTime: 0
+lastUpdated: 2024-09-24T08:41:48.596Z
 startTime: 2020-08-10T07:54:39.000Z
 generator: Upptime <https://github.com/upptime/upptime>
